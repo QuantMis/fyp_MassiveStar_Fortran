@@ -1,0 +1,22 @@
+compile and lini, with say
+
+% ifort test_sneut5.f90 -o test_sneut5.exe
+
+run the executable
+
+% ./test_sneut5.exe
+ temp = 1.0000E+09   den  = 1.0000E+06   abar = 1.2358E+00   zbar = 1.0814E+00
+ 
+ snu   = 5.5972E+07
+ dsnudt= 5.9810E-01
+ dsnudd=-7.4902E+01
+ dsnuda= 1.5318E+07
+ dsnudz=-1.7462E+07
+ 
+ spair   = 4.6635E+07
+ splas   = 3.3607E+05
+ sphot   = 8.9541E+06
+ sbrem   = 4.6913E+04
+ sreco   = 1.1027E+00
+ 
+normal termination
