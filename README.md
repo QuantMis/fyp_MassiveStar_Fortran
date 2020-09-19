@@ -1,1 +1,1 @@
-# fyp_MassiveStar_Fortran
+# source code for f90 neutrino analysis
